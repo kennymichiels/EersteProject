@@ -1,1 +1,1 @@
-*hier komt het doel van ons prject in het bestand*
+*hier komt het doel van ons project in het bestand*
